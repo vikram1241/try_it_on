@@ -98,3 +98,149 @@ Focus: Build the marketplace for wearables (clothes, shoes, ties, watches, glass
 - **Oversight**: Assign mentors per team; bi-weekly cross-team syncs for alignment (e.g., API contracts).
 
 This path ensures freshers gain skills progressively while contributing to the product. Adjust based on progress—focus on hands-on coding to build confidence! If needed, I can provide sample code or resources.
+
+
+Shared Technologies (Weeks 1-8):
+
+Python Programming:
+python_variables.md
+python_data_types.md (overview, but specifics below)
+python_integers.md
+python_floats.md
+python_booleans.md
+python_strings.md
+python_lists.md
+python_tuples.md
+python_dictionaries.md
+python_sets.md
+python_operators.md
+python_conditionals.md
+python_loops.md
+python_functions.md
+python_exceptions.md
+python_file_io.md
+python_modules_packages.md
+python_oop_classes.md
+python_oop_inheritance.md
+python_oop_polymorphism.md
+python_oop_encapsulation.md
+
+Data Structures & Algorithms (DSA) in Python:
+dsa_arrays.md
+dsa_strings.md (overlaps with python_strings but DSA focus)
+dsa_sorting.md
+dsa_searching.md
+dsa_linked_lists.md
+dsa_stacks.md
+dsa_queues.md
+dsa_recursion.md
+dsa_trees.md
+dsa_hash_maps.md
+dsa_dynamic_programming.md
+dsa_time_space_complexity.md
+
+Git & Version Control:
+git_basics.md
+git_branching_merging.md
+git_collaboration.md
+git_advanced.md (rebase, conflicts)
+
+HTML, CSS, JavaScript:
+html_basics.md
+html_forms_semantics.md
+css_basics.md
+css_layout_flex_grid.md
+css_responsive.md
+javascript_basics.md
+javascript_dom_events.md
+javascript_arrays_functions.md
+javascript_async_promises.md
+
+React.js:
+react_components_jsx.md
+react_props_state.md
+react_hooks.md
+react_routing.md
+react_forms_validation.md
+react_context_api.md
+react_styling.md
+
+Flask:
+flask_setup_routes.md
+flask_blueprints.md
+flask_rest_apis.md
+flask_authentication_jwt.md
+flask_file_uploads.md
+flask_error_handling.md
+flask_environment.md
+
+
+Team 1 (Virtual Try-On) Specific (Weeks 9-16):
+7. OpenCV:
+
+opencv_image_basics.md
+opencv_color_spaces.md
+opencv_filtering_edges.md
+opencv_contours_detection.md
+
+
+Three.js:
+threejs_scene_camera.md
+threejs_meshes_materials.md
+threejs_lights_controls.md
+threejs_model_loading.md
+threejs_animations.md
+
+PyTorch:
+pytorch_tensors.md
+pytorch_autograd.md
+pytorch_nn_modules.md
+pytorch_datasets_loaders.md
+pytorch_training_loops.md
+pytorch_transfer_learning.md
+
+Generative AI & Diffusion Models:
+genai_basics.md
+diffusion_process.md
+stable_diffusion.md
+viton_models.md
+controlnet_adapter.md
+
+3D Reconstruction & Human Modeling:
+colmap_basics.md
+smpl_basics.md
+smpl_fitting.md
+blender_api_basics.md
+blender_cloth_simulation.md
+
+
+Team 2 (E-Commerce) Specific (Weeks 9-16):
+12. PostgreSQL:
+
+postgresql_basics.md
+postgresql_tables_queries.md
+postgresql_joins.md
+postgresql_indexes_constraints.md
+postgresql_transactions.md
+
+
+SQLAlchemy:
+sqlalchemy_engine_session.md
+sqlalchemy_models.md
+sqlalchemy_queries.md
+sqlalchemy_relationships.md
+sqlalchemy_migrations.md
+
+Payment & Logistics Integrations:
+payment_gateways_basics.md (Razorpay/Stripe)
+payment_intents_sessions.md
+logistics_apis_basics.md (Shiprocket)
+logistics_shipping_tracking.md
+webhooks_events.md
+
+Advanced E-Commerce Features:
+ecommerce_cart_logic.md
+ecommerce_search_filter.md
+ecommerce_notifications.md
+ecommerce_analytics.md
+ecommerce_admin_dashboard.md
